@@ -2,7 +2,7 @@
 ・ルル君がまばたきできるようになります  
 ・MMDをONにするとまばたきしなくなります  
 ・[なでなでシステム](https://github.com/Luke-514/Lulu_Nade)と互換性があります  
-<img src="image/VRChat_2024-09-28_18-09-15.214_1920x1080.png" width="40%" />  
+<img src="image/mabataki.gif" width="40%" />  
   
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  

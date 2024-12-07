@@ -1,6 +1,6 @@
 # 何ができるの？
 ・ルル君がまばたきできるようになります  
-・MMDをONにするとまばたきしなくなります  
+・AFKになるか、MMDをONにするとまばたきしなくなります  
 ・[なでなでシステム](https://github.com/Luke-514/Lulu_Nade)と互換性があります  
 <img src="image/mabataki.gif" width="40%" />  
   

@@ -2,7 +2,7 @@
 ・ルル君がまばたきできるようになります  
 ・AFKになるか、MMDをONにするとまばたきしなくなります  
 ・[なでなでシステム](https://github.com/Luke-514/Lulu_Nade)と互換性があります  
-<img src="image/mabataki.gif" width="40%" />  
+&emsp;<img src="image/mabataki.gif" width="40%" />  
   
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)です  
@@ -14,7 +14,7 @@
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Mabataki/releases/latest)からLulu_Mabataki.unitypackageをダウンロードして、プロジェクトにインポートします  
   
 3.&nbsp;Assets>Lulu_Mabatakiの中にある**Lulu_Mabataki.prefab**をアバター直下に追加します  
-<img src="image/Prefab配置.png" width="30%" />  
+&emsp;<img src="image/Prefab配置.png" width="30%" />  
   
 # 免責事項
 本アセットの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません  

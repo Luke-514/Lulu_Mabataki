@@ -5,7 +5,7 @@
 <img src="image/mabataki.gif" width="40%" />  
   
 # 注意事項など
-・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
+・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)です  
 ・MMDボタンを削除している場合はまばたきしない可能性があります  
   
 # 導入手順

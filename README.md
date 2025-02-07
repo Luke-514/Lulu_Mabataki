@@ -7,6 +7,9 @@
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)です  
 ・MMDボタンを削除している場合はまばたきしない可能性があります  
+・[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)に導入する場合は、VRC Avater DescriptorのEyelid TypeをNoneにしてから導入してください  
+&emsp;<img src="image/lid_enabled.png" width="30%" />
+<img src="image/lid_disabled.png" width="30%" />
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  
@@ -28,6 +31,8 @@ Luke514
   
 # Special Thanks
 優希@白狼わんこ  
+kruztouya  
+Tちゃん  
 
 # 関連アセット
 ・[なでなでシステム](https://github.com/Luke-514/Lulu_Nade)  

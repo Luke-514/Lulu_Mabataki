@@ -9,8 +9,8 @@
 ・MMDボタンを削除している場合はまばたきしない可能性があります  
 ・[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)に導入する場合は、  
 　VRC Avater DescriptorのEyelid TypeをNoneにしてから導入してください  
-&emsp;<img src="image/lid_enabled.png" width="30%" />
-<img src="image/lid_disabled.png" width="30%" />
+&emsp;<img src="image/lid_enabled.png" width="30%" align="top"/>
+<img src="image/lid_disabled.png" width="30%" align="top"/>
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  

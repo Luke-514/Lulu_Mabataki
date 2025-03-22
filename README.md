@@ -17,7 +17,7 @@
   
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Mabataki/releases/latest)からLulu_Mabataki.unitypackageをダウンロードして、プロジェクトにインポートします  
   
-3.&nbsp;Assets>Lulu_Mabatakiの中にある**Lulu_Mabataki.prefab**をアバター直下に追加します  
+3.&nbsp;Assets>Luke's Assets>Lulu_Mabatakiの中にある**Lulu_Mabataki.prefab**をアバター直下に追加します  
 &emsp;<img src="image/Prefab配置.png" width="30%" />  
   
 # 免責事項
